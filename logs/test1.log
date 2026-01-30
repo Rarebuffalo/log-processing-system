@@ -1,0 +1,4 @@
+2026-01-21 10:00:00 ERROR user=krish action=login
+2026-01-21 10:00:30 ERROR user=krish action=timeout
+2026-01-21 11:15:00 INFO user=aman action=login
+

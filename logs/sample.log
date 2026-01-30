@@ -1,0 +1,2 @@
+2026-01-21 10:15:23 INFO user=krish action=login
+2026-01-21 10:17:01 ERROR user=aman action=payment_failed
